@@ -1,0 +1,13 @@
+fairlearn==0.7.0
+geopandas==1.0.1
+lime==0.2.0.1
+matplotlib==3.10.0
+matplotlib-inline==0.1.7
+matplotlib-venn==1.1.2
+numpy==2.0.2
+pandas==2.2.2
+pandas-datareader==0.10.0
+pandas-gbq==0.29.1
+pandas-stubs==2.2.2.240909
+scikit-learn==1.6.1
+sklearn-pandas==2.2.0
